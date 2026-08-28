@@ -271,4 +271,4 @@ async def message_handler(message: Message):
 
 
 if __name__ == "__main__":
-    bot.run_forever()
+    bot.run()

@@ -1,0 +1,1418 @@
+{
+  "A2": {
+    "Present Simple vs Present Continuous": {
+      "rule": "Present Simple — привычки, факты и регулярные действия: I usually walk to school. Present Continuous — действие происходит сейчас или временно: I am doing my homework now. Подсказки: usually/often/every day → Present Simple; now/at the moment/today → Present Continuous.",
+      "exercises": [
+        {
+          "title": "Present Simple vs Present Continuous — практика 1",
+          "questions": [
+            {
+              "question": "She usually ___ coffee in the morning.",
+              "options": [
+                "drink",
+                "drinks",
+                "is drinking"
+              ],
+              "answer": "B",
+              "tip": "Usually показывает регулярное действие → Present Simple; с she нужен -s."
+            },
+            {
+              "question": "Look! The dog ___ in the garden.",
+              "options": [
+                "runs",
+                "is running",
+                "run"
+              ],
+              "answer": "B",
+              "tip": "Look! показывает действие прямо сейчас → Present Continuous."
+            },
+            {
+              "question": "We ___ English on Mondays.",
+              "options": [
+                "study",
+                "are studying",
+                "studies"
+              ],
+              "answer": "A",
+              "tip": "On Mondays = регулярность → Present Simple."
+            },
+            {
+              "question": "I ___ dinner at the moment.",
+              "options": [
+                "cook",
+                "am cooking",
+                "cooks"
+              ],
+              "answer": "B",
+              "tip": "At the moment → Present Continuous."
+            },
+            {
+              "question": "My brother often ___ video games after school.",
+              "options": [
+                "plays",
+                "is playing",
+                "play"
+              ],
+              "answer": "A",
+              "tip": "Often → привычка; my brother = he, поэтому plays."
+            },
+            {
+              "question": "They ___ TV right now.",
+              "options": [
+                "watch",
+                "watches",
+                "are watching"
+              ],
+              "answer": "C",
+              "tip": "Right now → действие сейчас → are watching."
+            },
+            {
+              "question": "Anna ___ to school by bus every day.",
+              "options": [
+                "goes",
+                "is going",
+                "go"
+              ],
+              "answer": "A",
+              "tip": "Every day → Present Simple; Anna = she → goes."
+            },
+            {
+              "question": "Why ___ you ___?",
+              "options": [
+                "do / cry",
+                "are / crying",
+                "does / cry"
+              ],
+              "answer": "B",
+              "tip": "Вопрос о действии сейчас строится с are + V-ing."
+            },
+            {
+              "question": "My parents ___ in a hospital.",
+              "options": [
+                "work",
+                "are working now",
+                "works"
+              ],
+              "answer": "A",
+              "tip": "Постоянная работа/факт → Present Simple."
+            },
+            {
+              "question": "This week I ___ at my friend's house.",
+              "options": [
+                "stay",
+                "am staying",
+                "stays"
+              ],
+              "answer": "B",
+              "tip": "This week здесь означает временную ситуацию → Present Continuous."
+            },
+            {
+              "question": "He never ___ late.",
+              "options": [
+                "arrive",
+                "arrives",
+                "is arriving"
+              ],
+              "answer": "B",
+              "tip": "Never → привычка; he → arrives."
+            },
+            {
+              "question": "Listen! Someone ___ the piano.",
+              "options": [
+                "plays",
+                "is playing",
+                "play"
+              ],
+              "answer": "B",
+              "tip": "Listen! указывает на действие сейчас."
+            },
+            {
+              "question": "We usually ___ lunch at 1 p.m.",
+              "options": [
+                "have",
+                "are having",
+                "has"
+              ],
+              "answer": "A",
+              "tip": "Usually → Present Simple."
+            },
+            {
+              "question": "She ___ a blue dress today.",
+              "options": [
+                "wears",
+                "is wearing",
+                "wear"
+              ],
+              "answer": "B",
+              "tip": "Today описывает текущую/временную ситуацию → Present Continuous."
+            },
+            {
+              "question": "Water ___ at 100°C.",
+              "options": [
+                "boils",
+                "is boiling",
+                "boil"
+              ],
+              "answer": "A",
+              "tip": "Общеизвестный факт → Present Simple."
+            }
+          ]
+        },
+        {
+          "title": "Present Simple vs Present Continuous — практика 2",
+          "questions": [
+            {
+              "question": "Tom ___ his room every Saturday.",
+              "options": [
+                "cleans",
+                "is cleaning",
+                "clean"
+              ],
+              "answer": "A",
+              "tip": "Every Saturday → регулярное действие."
+            },
+            {
+              "question": "Be quiet! The baby ___.",
+              "options": [
+                "sleeps",
+                "is sleeping",
+                "sleep"
+              ],
+              "answer": "B",
+              "tip": "Сейчас нужно быть тихо, потому что действие идёт в этот момент."
+            },
+            {
+              "question": "I usually ___ jeans, but today I ___ a suit.",
+              "options": [
+                "wear / wear",
+                "am wearing / wear",
+                "wear / am wearing"
+              ],
+              "answer": "C",
+              "tip": "Usually → Present Simple; today → временно Present Continuous."
+            },
+            {
+              "question": "Kate ___ French twice a week.",
+              "options": [
+                "learns",
+                "is learning",
+                "learn"
+              ],
+              "answer": "A",
+              "tip": "Twice a week → Present Simple."
+            },
+            {
+              "question": "We ___ for the bus now.",
+              "options": [
+                "wait",
+                "are waiting",
+                "waits"
+              ],
+              "answer": "B",
+              "tip": "Now → Present Continuous."
+            },
+            {
+              "question": "My cat always ___ on my bed.",
+              "options": [
+                "sleep",
+                "sleeps",
+                "is sleeping"
+              ],
+              "answer": "B",
+              "tip": "Always → привычка; cat = it → sleeps."
+            },
+            {
+              "question": "What ___ your dad usually ___ for breakfast?",
+              "options": [
+                "does / eat",
+                "is / eating",
+                "do / eat"
+              ],
+              "answer": "A",
+              "tip": "Usually → Present Simple; dad = he → does."
+            },
+            {
+              "question": "I can't talk. I ___ my homework.",
+              "options": [
+                "do",
+                "am doing",
+                "does"
+              ],
+              "answer": "B",
+              "tip": "Действие происходит сейчас."
+            },
+            {
+              "question": "The shop ___ at 9 every morning.",
+              "options": [
+                "opens",
+                "is opening",
+                "open"
+              ],
+              "answer": "A",
+              "tip": "Расписание/регулярность → Present Simple."
+            },
+            {
+              "question": "They ___ a new project this month.",
+              "options": [
+                "work on",
+                "are working on",
+                "works on"
+              ],
+              "answer": "B",
+              "tip": "This month → временный процесс."
+            },
+            {
+              "question": "Sarah rarely ___ sweets.",
+              "options": [
+                "eats",
+                "is eating",
+                "eat"
+              ],
+              "answer": "A",
+              "tip": "Rarely → частотность → Present Simple."
+            },
+            {
+              "question": "___ he ___ now?",
+              "options": [
+                "Does / drive",
+                "Is / driving",
+                "Do / drive"
+              ],
+              "answer": "B",
+              "tip": "Now → Present Continuous question: Is he driving?"
+            },
+            {
+              "question": "Our teacher usually ___ us homework on Friday.",
+              "options": [
+                "gives",
+                "is giving",
+                "give"
+              ],
+              "answer": "A",
+              "tip": "Usually → Present Simple; teacher = he/she."
+            },
+            {
+              "question": "Today the students ___ outside.",
+              "options": [
+                "study",
+                "are studying",
+                "studies"
+              ],
+              "answer": "B",
+              "tip": "Today в контексте временной ситуации → Present Continuous."
+            },
+            {
+              "question": "The sun ___ in the east.",
+              "options": [
+                "rises",
+                "is rising",
+                "rise"
+              ],
+              "answer": "A",
+              "tip": "Факт природы → Present Simple."
+            }
+          ]
+        },
+        {
+          "title": "Present Simple vs Present Continuous — практика 3",
+          "questions": [
+            {
+              "question": "Every evening, Mia ___ a book before bed.",
+              "options": [
+                "reads",
+                "is reading",
+                "read"
+              ],
+              "answer": "A",
+              "tip": "Every evening → регулярное действие."
+            },
+            {
+              "question": "At the moment, Mia ___ a detective story.",
+              "options": [
+                "reads",
+                "is reading",
+                "read"
+              ],
+              "answer": "B",
+              "tip": "At the moment → Present Continuous."
+            },
+            {
+              "question": "I ___ my grandparents every weekend.",
+              "options": [
+                "visit",
+                "am visiting",
+                "visits"
+              ],
+              "answer": "A",
+              "tip": "Every weekend → Present Simple."
+            },
+            {
+              "question": "This weekend I ___ my aunt in London.",
+              "options": [
+                "visit",
+                "am visiting",
+                "visits"
+              ],
+              "answer": "B",
+              "tip": "This weekend — запланированная временная ситуация."
+            },
+            {
+              "question": "He usually ___ at home, but today he ___ in a café.",
+              "options": [
+                "works / works",
+                "is working / works",
+                "works / is working"
+              ],
+              "answer": "C",
+              "tip": "Usually → Simple; today → Continuous."
+            },
+            {
+              "question": "Why ___ they ___ so fast now?",
+              "options": [
+                "do / run",
+                "are / running",
+                "does / run"
+              ],
+              "answer": "B",
+              "tip": "Now → are + running."
+            },
+            {
+              "question": "My sister ___ meat.",
+              "options": [
+                "doesn't eat",
+                "isn't eating",
+                "don't eat"
+              ],
+              "answer": "A",
+              "tip": "Постоянная привычка/предпочтение → Present Simple."
+            },
+            {
+              "question": "We ___ a lot for our exams these days.",
+              "options": [
+                "study",
+                "are studying",
+                "studies"
+              ],
+              "answer": "B",
+              "tip": "These days → временная текущая ситуация."
+            },
+            {
+              "question": "The train usually ___ at 7:30.",
+              "options": [
+                "leaves",
+                "is leaving",
+                "leave"
+              ],
+              "answer": "A",
+              "tip": "Расписание → Present Simple."
+            },
+            {
+              "question": "Please call later. I ___ a shower.",
+              "options": [
+                "have",
+                "am having",
+                "has"
+              ],
+              "answer": "B",
+              "tip": "Действие происходит сейчас."
+            },
+            {
+              "question": "Jack sometimes ___ his lunch to school.",
+              "options": [
+                "brings",
+                "is bringing",
+                "bring"
+              ],
+              "answer": "A",
+              "tip": "Sometimes → Present Simple."
+            },
+            {
+              "question": "The children ___ in the park right now.",
+              "options": [
+                "play",
+                "are playing",
+                "plays"
+              ],
+              "answer": "B",
+              "tip": "Right now → Present Continuous."
+            },
+            {
+              "question": "My mother ___ in a bank.",
+              "options": [
+                "works",
+                "is working today",
+                "work"
+              ],
+              "answer": "A",
+              "tip": "Постоянное место работы → Present Simple."
+            },
+            {
+              "question": "We ___ with our cousins for two weeks.",
+              "options": [
+                "stay",
+                "are staying",
+                "stays"
+              ],
+              "answer": "B",
+              "tip": "Ограниченный временной период → Present Continuous."
+            },
+            {
+              "question": "___ you usually ___ breakfast at home?",
+              "options": [
+                "Are / having",
+                "Do / have",
+                "Does / have"
+              ],
+              "answer": "B",
+              "tip": "Usually → Present Simple question: Do you have...?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "B1": {
+    "Present Perfect vs Past Simple": {
+      "rule": "Past Simple — завершённое действие в конкретный момент прошлого: I saw him yesterday. Present Perfect — прошлое действие связано с настоящим, а точное время не называется: I have seen this film. С yesterday/last/in 2024 обычно Past Simple; с already/just/yet/ever/never часто Present Perfect.",
+      "exercises": [
+        {
+          "title": "Present Perfect vs Past Simple — практика 1",
+          "questions": [
+            {
+              "question": "I ___ this film three times.",
+              "options": [
+                "saw",
+                "have seen",
+                "see"
+              ],
+              "answer": "B",
+              "tip": "Опыт до настоящего без точного времени → Present Perfect."
+            },
+            {
+              "question": "We ___ to Rome last year.",
+              "options": [
+                "have gone",
+                "went",
+                "have been"
+              ],
+              "answer": "B",
+              "tip": "Last year — конкретное завершённое время → Past Simple."
+            },
+            {
+              "question": "She ___ just ___ her homework.",
+              "options": [
+                "has / finished",
+                "did / finish",
+                "was / finishing"
+              ],
+              "answer": "A",
+              "tip": "Just часто используется с Present Perfect."
+            },
+            {
+              "question": "___ you ever ___ sushi?",
+              "options": [
+                "Did / eat",
+                "Have / eaten",
+                "Do / eat"
+              ],
+              "answer": "B",
+              "tip": "Ever спрашивает об опыте до настоящего → Present Perfect."
+            },
+            {
+              "question": "I ___ him yesterday.",
+              "options": [
+                "have met",
+                "met",
+                "have meet"
+              ],
+              "answer": "B",
+              "tip": "Yesterday → Past Simple."
+            },
+            {
+              "question": "They ___ here since 2022.",
+              "options": [
+                "lived",
+                "have lived",
+                "live"
+              ],
+              "answer": "B",
+              "tip": "Since + начало периода, который продолжается → Present Perfect."
+            },
+            {
+              "question": "My sister ___ her keys, so she can't open the door.",
+              "options": [
+                "lost",
+                "has lost",
+                "lose"
+              ],
+              "answer": "B",
+              "tip": "Есть результат сейчас: ключей нет → Present Perfect."
+            },
+            {
+              "question": "When ___ you ___ the book?",
+              "options": [
+                "have / bought",
+                "did / buy",
+                "do / buy"
+              ],
+              "answer": "B",
+              "tip": "When спрашивает о конкретном прошлом времени → Past Simple."
+            },
+            {
+              "question": "We haven't finished the project ___.",
+              "options": [
+                "yesterday",
+                "yet",
+                "last week"
+              ],
+              "answer": "B",
+              "tip": "Yet типично используется с Present Perfect в отрицаниях."
+            },
+            {
+              "question": "He ___ school in 2020.",
+              "options": [
+                "has left",
+                "left",
+                "has leave"
+              ],
+              "answer": "B",
+              "tip": "In 2020 — завершённое прошлое → Past Simple."
+            },
+            {
+              "question": "I ___ never ___ a horse.",
+              "options": [
+                "have / ridden",
+                "did / ride",
+                "was / riding"
+              ],
+              "answer": "A",
+              "tip": "Never + жизненный опыт → Present Perfect."
+            },
+            {
+              "question": "She ___ me two minutes ago.",
+              "options": [
+                "has called",
+                "called",
+                "calls"
+              ],
+              "answer": "B",
+              "tip": "Ago → Past Simple."
+            },
+            {
+              "question": "___ Tom arrived yet?",
+              "options": [
+                "Did",
+                "Has",
+                "Does"
+              ],
+              "answer": "B",
+              "tip": "Yet + результат к настоящему → Has Tom arrived?"
+            },
+            {
+              "question": "We ___ each other for ten years.",
+              "options": [
+                "knew",
+                "have known",
+                "know"
+              ],
+              "answer": "B",
+              "tip": "For ten years и связь с настоящим → Present Perfect."
+            },
+            {
+              "question": "I ___ breakfast at 8 this morning.",
+              "options": [
+                "have had",
+                "had",
+                "have"
+              ],
+              "answer": "B",
+              "tip": "Указан конкретный момент в прошлом → Past Simple."
+            }
+          ]
+        },
+        {
+          "title": "Present Perfect vs Past Simple — практика 2",
+          "questions": [
+            {
+              "question": "The teacher ___ already ___ the tests.",
+              "options": [
+                "has / checked",
+                "did / check",
+                "was / check"
+              ],
+              "answer": "A",
+              "tip": "Already часто показывает результат к настоящему."
+            },
+            {
+              "question": "I ___ that museum when I was a child.",
+              "options": [
+                "have visited",
+                "visited",
+                "have visit"
+              ],
+              "answer": "B",
+              "tip": "When I was a child — завершённый прошлый период."
+            },
+            {
+              "question": "How long ___ you ___ English?",
+              "options": [
+                "did / study",
+                "have / studied",
+                "do / studied"
+              ],
+              "answer": "B",
+              "tip": "How long о периоде до настоящего → Present Perfect."
+            },
+            {
+              "question": "We ___ any emails from them yet.",
+              "options": [
+                "didn't receive",
+                "haven't received",
+                "don't receive"
+              ],
+              "answer": "B",
+              "tip": "Yet + отрицание → Present Perfect."
+            },
+            {
+              "question": "She ___ her first job last month.",
+              "options": [
+                "has started",
+                "started",
+                "has start"
+              ],
+              "answer": "B",
+              "tip": "Last month → Past Simple."
+            },
+            {
+              "question": "My parents ___ to Paris several times.",
+              "options": [
+                "went",
+                "have been",
+                "were"
+              ],
+              "answer": "B",
+              "tip": "Повторяющийся жизненный опыт без точных дат → Present Perfect."
+            },
+            {
+              "question": "I ___ my phone an hour ago.",
+              "options": [
+                "have found",
+                "found",
+                "have find"
+              ],
+              "answer": "B",
+              "tip": "An hour ago → Past Simple."
+            },
+            {
+              "question": "He ___ never ___ abroad.",
+              "options": [
+                "has / travelled",
+                "did / travel",
+                "was / travelling"
+              ],
+              "answer": "A",
+              "tip": "Never + опыт → Present Perfect."
+            },
+            {
+              "question": "___ you ___ Lucy at the party last night?",
+              "options": [
+                "Have / seen",
+                "Did / see",
+                "Do / see"
+              ],
+              "answer": "B",
+              "tip": "Last night → Past Simple."
+            },
+            {
+              "question": "The rain ___, so we can go outside now.",
+              "options": [
+                "stopped",
+                "has stopped",
+                "stop"
+              ],
+              "answer": "B",
+              "tip": "Результат важен сейчас → Present Perfect."
+            },
+            {
+              "question": "I ___ this laptop for five years.",
+              "options": [
+                "had",
+                "have had",
+                "have"
+              ],
+              "answer": "B",
+              "tip": "For five years и всё ещё владею → Present Perfect."
+            },
+            {
+              "question": "They ___ the match on Saturday.",
+              "options": [
+                "have won",
+                "won",
+                "have win"
+              ],
+              "answer": "B",
+              "tip": "On Saturday — конкретное прошлое время."
+            },
+            {
+              "question": "She ___ three books this month.",
+              "options": [
+                "has read",
+                "read yesterday",
+                "reads"
+              ],
+              "answer": "A",
+              "tip": "This month ещё продолжается → Present Perfect."
+            },
+            {
+              "question": "We ___ home very late yesterday.",
+              "options": [
+                "have come",
+                "came",
+                "have came"
+              ],
+              "answer": "B",
+              "tip": "Yesterday → Past Simple; come → came."
+            },
+            {
+              "question": "I can't find Anna. ___ you ___ her?",
+              "options": [
+                "Did / see yesterday",
+                "Have / seen",
+                "Do / saw"
+              ],
+              "answer": "B",
+              "tip": "Вопрос связан с текущей ситуацией, точное время не названо."
+            }
+          ]
+        },
+        {
+          "title": "Present Perfect vs Past Simple — практика 3",
+          "questions": [
+            {
+              "question": "This is the best pizza I ___ ever ___.",
+              "options": [
+                "did / eat",
+                "have / eaten",
+                "was / eating"
+              ],
+              "answer": "B",
+              "tip": "Ever + опыт до настоящего → Present Perfect."
+            },
+            {
+              "question": "He ___ his driving test last Friday.",
+              "options": [
+                "has passed",
+                "passed",
+                "has pass"
+              ],
+              "answer": "B",
+              "tip": "Last Friday → Past Simple."
+            },
+            {
+              "question": "We ___ each other since primary school.",
+              "options": [
+                "have known",
+                "knew",
+                "know"
+              ],
+              "answer": "A",
+              "tip": "Since + начало продолжающегося состояния."
+            },
+            {
+              "question": "I ___ that message yet.",
+              "options": [
+                "didn't read",
+                "haven't read",
+                "don't read"
+              ],
+              "answer": "B",
+              "tip": "Yet в отрицании → Present Perfect."
+            },
+            {
+              "question": "My uncle ___ in Canada from 2010 to 2015.",
+              "options": [
+                "has lived",
+                "lived",
+                "has live"
+              ],
+              "answer": "B",
+              "tip": "Период полностью закончился → Past Simple."
+            },
+            {
+              "question": "She ___ just ___ me the answer.",
+              "options": [
+                "has / told",
+                "did / tell",
+                "was / tell"
+              ],
+              "answer": "A",
+              "tip": "Just → Present Perfect."
+            },
+            {
+              "question": "___ they ever ___ a competition?",
+              "options": [
+                "Did / win",
+                "Have / won",
+                "Do / won"
+              ],
+              "answer": "B",
+              "tip": "Ever + жизненный опыт → Present Perfect."
+            },
+            {
+              "question": "We ___ to the beach twice last summer.",
+              "options": [
+                "have gone",
+                "went",
+                "have been"
+              ],
+              "answer": "B",
+              "tip": "Last summer — завершённый период → Past Simple."
+            },
+            {
+              "question": "I ___ my essay, so I can relax now.",
+              "options": [
+                "finished yesterday",
+                "have finished",
+                "finish"
+              ],
+              "answer": "B",
+              "tip": "Результат важен сейчас → Present Perfect."
+            },
+            {
+              "question": "When I was ten, I ___ swimming every week.",
+              "options": [
+                "have gone",
+                "went",
+                "have been"
+              ],
+              "answer": "B",
+              "tip": "Завершённый период детства → Past Simple."
+            },
+            {
+              "question": "He ___ in this company for six months.",
+              "options": [
+                "worked last year",
+                "has worked",
+                "works yesterday"
+              ],
+              "answer": "B",
+              "tip": "For six months до настоящего → Present Perfect."
+            },
+            {
+              "question": "The bus ___ five minutes ago.",
+              "options": [
+                "has left",
+                "left",
+                "has leave"
+              ],
+              "answer": "B",
+              "tip": "Ago → Past Simple."
+            },
+            {
+              "question": "I ___ never ___ such a difficult test.",
+              "options": [
+                "have / taken",
+                "did / took",
+                "was / take"
+              ],
+              "answer": "A",
+              "tip": "Never + опыт → Present Perfect."
+            },
+            {
+              "question": "She ___ her degree in 2023.",
+              "options": [
+                "has completed",
+                "completed",
+                "has complete"
+              ],
+              "answer": "B",
+              "tip": "In 2023 → Past Simple."
+            },
+            {
+              "question": "We ___ the new student yet.",
+              "options": [
+                "haven't met",
+                "didn't meet yesterday",
+                "don't met"
+              ],
+              "answer": "A",
+              "tip": "Yet + отрицание → Present Perfect."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "B2": {
+    "Modal verbs of deduction": {
+      "rule": "Для догадок о настоящем: must = почти уверен, что это правда; might/may/could = возможно; can't = почти уверен, что это невозможно. Для прошлого: must/might/can't + have + V3, например: She must have forgotten.",
+      "exercises": [
+        {
+          "title": "Modal verbs of deduction — практика 1",
+          "questions": [
+            {
+              "question": "The lights are off. They ___ be at home.",
+              "options": [
+                "must",
+                "can't",
+                "should"
+              ],
+              "answer": "B",
+              "tip": "Если всё говорит против версии, используем can't для сильного отрицательного вывода."
+            },
+            {
+              "question": "She got 100% on every test. She ___ be very good at maths.",
+              "options": [
+                "must",
+                "can't",
+                "might not"
+              ],
+              "answer": "A",
+              "tip": "Must выражает сильную уверенность на основе фактов."
+            },
+            {
+              "question": "I don't know where Ben is. He ___ be in the library.",
+              "options": [
+                "must",
+                "might",
+                "can't"
+              ],
+              "answer": "B",
+              "tip": "Might = возможно, но уверенности нет."
+            },
+            {
+              "question": "That ___ be Julia — she's in Spain this week.",
+              "options": [
+                "must",
+                "might",
+                "can't"
+              ],
+              "answer": "C",
+              "tip": "Известный факт делает предположение невозможным → can't."
+            },
+            {
+              "question": "You’ve been working all day. You ___ be tired.",
+              "options": [
+                "must",
+                "can't",
+                "couldn't"
+              ],
+              "answer": "A",
+              "tip": "Логичный сильный вывод о настоящем → must."
+            },
+            {
+              "question": "He isn't answering. He ___ be in a meeting.",
+              "options": [
+                "might",
+                "mustn't",
+                "can't"
+              ],
+              "answer": "A",
+              "tip": "Есть несколько возможных объяснений → might."
+            },
+            {
+              "question": "This ___ be the correct key; it doesn't fit the lock.",
+              "options": [
+                "must",
+                "can't",
+                "may"
+              ],
+              "answer": "B",
+              "tip": "Факт противоречит предположению → can't."
+            },
+            {
+              "question": "Someone is at the door. It ___ be the courier, but I'm not sure.",
+              "options": [
+                "must",
+                "could",
+                "can't"
+              ],
+              "answer": "B",
+              "tip": "Could = одна из возможных версий."
+            },
+            {
+              "question": "Her car is outside, so she ___ be nearby.",
+              "options": [
+                "must",
+                "can't",
+                "might not"
+              ],
+              "answer": "A",
+              "tip": "Сильное свидетельство → must."
+            },
+            {
+              "question": "They ___ know the answer; they haven't studied this topic.",
+              "options": [
+                "must",
+                "can't",
+                "should"
+              ],
+              "answer": "B",
+              "tip": "По контексту это крайне маловероятно → can't."
+            },
+            {
+              "question": "I hear music upstairs. Sam ___ be awake.",
+              "options": [
+                "must",
+                "can't",
+                "might not"
+              ],
+              "answer": "A",
+              "tip": "Музыка — сильное основание для вывода."
+            },
+            {
+              "question": "It ___ rain later; the forecast is uncertain.",
+              "options": [
+                "must",
+                "might",
+                "can't"
+              ],
+              "answer": "B",
+              "tip": "Неопределённость → might."
+            },
+            {
+              "question": "That man ___ be 18; he looks at least 40.",
+              "options": [
+                "must",
+                "can't",
+                "may"
+              ],
+              "answer": "B",
+              "tip": "Сильный отрицательный вывод → can't."
+            },
+            {
+              "question": "The office is locked. Everyone ___ have gone home.",
+              "options": [
+                "must",
+                "can't",
+                "mightn't"
+              ],
+              "answer": "A",
+              "tip": "Must have + V3 — сильный вывод о прошлом."
+            },
+            {
+              "question": "I can't find my wallet. I ___ have left it in the taxi.",
+              "options": [
+                "might",
+                "mustn't",
+                "can't"
+              ],
+              "answer": "A",
+              "tip": "Might have + V3 — возможная причина в прошлом."
+            }
+          ]
+        },
+        {
+          "title": "Modal verbs of deduction — практика 2",
+          "questions": [
+            {
+              "question": "She knew every detail. Someone ___ have told her.",
+              "options": [
+                "must",
+                "can't",
+                "should"
+              ],
+              "answer": "A",
+              "tip": "Must have told = почти наверняка это произошло."
+            },
+            {
+              "question": "He was with us all evening, so he ___ have broken the window.",
+              "options": [
+                "must",
+                "can't",
+                "might"
+              ],
+              "answer": "B",
+              "tip": "Can't have + V3 = почти наверняка этого не было."
+            },
+            {
+              "question": "They are late. They ___ have missed the train.",
+              "options": [
+                "might",
+                "can't",
+                "mustn't"
+              ],
+              "answer": "A",
+              "tip": "Might have missed = возможное объяснение прошлого."
+            },
+            {
+              "question": "The ground is wet. It ___ have rained during the night.",
+              "options": [
+                "must",
+                "can't",
+                "should"
+              ],
+              "answer": "A",
+              "tip": "Видимый результат даёт сильное основание → must have."
+            },
+            {
+              "question": "Anna ___ have sent this email; she doesn't know my address.",
+              "options": [
+                "must",
+                "can't",
+                "may"
+              ],
+              "answer": "B",
+              "tip": "Факт делает действие практически невозможным."
+            },
+            {
+              "question": "I’m not certain, but he ___ have taken the wrong bus.",
+              "options": [
+                "must",
+                "could",
+                "can't"
+              ],
+              "answer": "B",
+              "tip": "Could have + V3 = одна из возможных причин."
+            },
+            {
+              "question": "The cake is gone. The children ___ have eaten it.",
+              "options": [
+                "must",
+                "can't",
+                "might not"
+              ],
+              "answer": "A",
+              "tip": "Контекст даёт сильный вывод о прошлом."
+            },
+            {
+              "question": "Mark got the job. His interview ___ have gone well.",
+              "options": [
+                "must",
+                "can't",
+                "may not"
+              ],
+              "answer": "A",
+              "tip": "Результат указывает на очень вероятную причину."
+            },
+            {
+              "question": "This bill ___ be right — we only ordered two coffees.",
+              "options": [
+                "must",
+                "can't",
+                "might"
+              ],
+              "answer": "B",
+              "tip": "Сумма/счёт противоречит фактам → can't."
+            },
+            {
+              "question": "I don't see Kate's coat. She ___ have left already.",
+              "options": [
+                "may",
+                "can't",
+                "mustn't"
+              ],
+              "answer": "A",
+              "tip": "May have left = возможно ушла."
+            },
+            {
+              "question": "He speaks with a perfect local accent. He ___ have lived here for years.",
+              "options": [
+                "must",
+                "can't",
+                "couldn't"
+              ],
+              "answer": "A",
+              "tip": "Сильное свидетельство → must have lived."
+            },
+            {
+              "question": "The file isn't on my computer. I ___ have saved it to the cloud.",
+              "options": [
+                "might",
+                "mustn't",
+                "can't"
+              ],
+              "answer": "A",
+              "tip": "Неуверенное предположение о прошлом."
+            },
+            {
+              "question": "They ___ be serious — that's an impossible deadline.",
+              "options": [
+                "must",
+                "can't",
+                "may"
+              ],
+              "answer": "B",
+              "tip": "Can't be serious = сильное отрицательное заключение."
+            },
+            {
+              "question": "Someone ___ be using my account; I can see a login I don't recognise.",
+              "options": [
+                "must",
+                "can't",
+                "might not"
+              ],
+              "answer": "A",
+              "tip": "Есть явное свидетельство → must."
+            },
+            {
+              "question": "The door was locked from inside. The thief ___ have entered through it.",
+              "options": [
+                "must",
+                "can't",
+                "might"
+              ],
+              "answer": "B",
+              "tip": "Can't have entered = это объяснение исключается."
+            }
+          ]
+        },
+        {
+          "title": "Modal verbs of deduction — практика 3",
+          "questions": [
+            {
+              "question": "She hasn't replied for hours. She ___ be busy.",
+              "options": [
+                "could",
+                "can't",
+                "mustn't"
+              ],
+              "answer": "A",
+              "tip": "Could показывает возможное, но не уверенное объяснение."
+            },
+            {
+              "question": "That ___ be your phone — yours is on the table.",
+              "options": [
+                "must",
+                "can't",
+                "may"
+              ],
+              "answer": "B",
+              "tip": "Факт исключает предположение → can't."
+            },
+            {
+              "question": "Tom looks exhausted. He ___ have slept badly.",
+              "options": [
+                "must",
+                "can't",
+                "should"
+              ],
+              "answer": "A",
+              "tip": "Текущее состояние даёт сильный вывод о прошлом."
+            },
+            {
+              "question": "I saw Lisa at 9 p.m., so she ___ have been at the 8 p.m. flight.",
+              "options": [
+                "must",
+                "can't",
+                "might"
+              ],
+              "answer": "B",
+              "tip": "Временные факты исключают возможность → can't have."
+            },
+            {
+              "question": "No one knows for sure. The painting ___ be genuine.",
+              "options": [
+                "might",
+                "must",
+                "can't"
+              ],
+              "answer": "A",
+              "tip": "Нет уверенности → might."
+            },
+            {
+              "question": "The streets are empty. It ___ be very late.",
+              "options": [
+                "must",
+                "can't",
+                "may not"
+              ],
+              "answer": "A",
+              "tip": "Сильный вывод из наблюдения → must."
+            },
+            {
+              "question": "He answered every expert question easily. He ___ know the subject well.",
+              "options": [
+                "must",
+                "can't",
+                "might not"
+              ],
+              "answer": "A",
+              "tip": "Наблюдения дают высокую уверенность → must."
+            },
+            {
+              "question": "The package hasn't arrived. It ___ have been delayed.",
+              "options": [
+                "may",
+                "can't",
+                "mustn't"
+              ],
+              "answer": "A",
+              "tip": "May have been delayed = возможное объяснение."
+            },
+            {
+              "question": "This signature ___ be hers; the handwriting is completely different.",
+              "options": [
+                "must",
+                "can't",
+                "could"
+              ],
+              "answer": "B",
+              "tip": "Сильное доказательство против → can't."
+            },
+            {
+              "question": "They left at 6 and the journey takes two hours. They ___ have arrived by now.",
+              "options": [
+                "must",
+                "can't",
+                "might not"
+              ],
+              "answer": "A",
+              "tip": "По времени результат почти наверняка уже наступил."
+            },
+            {
+              "question": "I’m sure he didn't see us. He ___ have been looking the other way.",
+              "options": [
+                "must",
+                "can't",
+                "may not"
+              ],
+              "answer": "A",
+              "tip": "Must have been looking — сильный вывод о причине в прошлом."
+            },
+            {
+              "question": "She ___ be working from home today; her office is empty.",
+              "options": [
+                "might",
+                "can't",
+                "mustn't"
+              ],
+              "answer": "A",
+              "tip": "Пустой офис даёт возможную, но не единственную версию."
+            },
+            {
+              "question": "The password worked yesterday. Someone ___ have changed it.",
+              "options": [
+                "must",
+                "can't",
+                "should"
+              ],
+              "answer": "A",
+              "tip": "Из текущего результата логично выводим прошлое действие."
+            },
+            {
+              "question": "It ___ have been Alex who called; he was on a plane at that time.",
+              "options": [
+                "must",
+                "can't",
+                "may"
+              ],
+              "answer": "B",
+              "tip": "Известный факт исключает версию → can't have."
+            },
+            {
+              "question": "They ___ have misunderstood the instructions; otherwise this result makes no sense.",
+              "options": [
+                "must",
+                "can't",
+                "might not"
+              ],
+              "answer": "A",
+              "tip": "Контекст даёт сильную уверенность в причине."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
